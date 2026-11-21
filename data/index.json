@@ -1,0 +1,35 @@
+{
+  "witnesses": [
+    "id",
+    "work",
+    "edition",
+    "type",
+    "speaker",
+    "page",
+    "text"
+  ],
+  "script": [
+    "id",
+    "topic",
+    "voice",
+    "anchor",
+    "dur_s",
+    "text"
+  ],
+  "routes": [
+    "id",
+    "label",
+    "audience",
+    "ids",
+    "allowed_bridge",
+    "budget_s"
+  ],
+  "reviews": [
+    "id",
+    "subject",
+    "authority",
+    "revision",
+    "note",
+    "at"
+  ]
+}

@@ -1,0 +1,4 @@
+{"id": "r1", "label": "两分钟站", "audience": "public", "ids": ["g0", "g1", "g3", "g5"], "allowed_bridge": ["g2"], "budget_s": 70}
+{"id": "r2", "label": "经过快听", "audience": "public", "ids": ["g3", "g5"], "allowed_bridge": ["g0", "g2"], "budget_s": 35}
+{"id": "r3", "label": "学术深听", "audience": "scholar", "ids": ["g0", "g1", "g3", "g4", "g6"], "allowed_bridge": ["g2"], "budget_s": 95}
+{"id": "r4", "label": "其他先生", "audience": "public", "ids": ["g6"], "allowed_bridge": [], "budget_s": 35}
