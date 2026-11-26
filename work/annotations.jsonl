@@ -1,0 +1,4 @@
+{"id": "j1", "fragment": "g3", "span": 0, "kind": "paraphrase", "speaker": "先生", "authority": "馆方编辑", "revision": 2, "evidence": [], "notes": ["对应 h1：现代重述，原稿没有用引号"], "span_text": "它可以引你入门，"}
+{"id": "j2", "fragment": "g3", "span": 1, "kind": "paraphrase", "speaker": "先生", "authority": "馆方编辑", "revision": 3, "evidence": [], "notes": ["对应 h1：现代重述，原稿没有用引号"], "span_text": "那种办法却不足以明白具体事物。"}
+{"id": "j3", "fragment": "g5", "span": 0, "kind": "quote", "speaker": "沈生", "authority": "馆方编辑", "revision": 2, "evidence": [{"key": "e4@ed1:3c", "use": "录文"}], "notes": ["对应 h3：手札 3c 可作逐字引文"], "span_text": "不闻其事，"}
+{"id": "j4", "fragment": "g5", "span": 1, "kind": "quote", "speaker": "沈生", "authority": "馆方编辑", "revision": 3, "evidence": [{"key": "e4@ed1:3c", "use": "录文"}], "notes": ["对应 h3：手札 3c 可作逐字引文"], "span_text": "勿归其言。"}
